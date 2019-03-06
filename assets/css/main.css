@@ -193,3 +193,16 @@ body {
 .box-graphic {
     
 }
+
+.markdown li {
+    padding-bottom: 0;
+}
+
+.markdown p.nospace {
+    margin-bottom: 0;
+}
+
+.markdown.job-ad h3 {
+    margin-bottom: 1em;
+    margin-top: 1.5em;
+}
